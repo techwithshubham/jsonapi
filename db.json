@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "productName": "Apple",
+      "category": "smartphone",
+      "condition": "Brand New",
+      "price": 30000,
+      "comment": "hello",
+      "date": "2022-06-22T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "ddgg",
+      "category": "smartphone",
+      "condition": "Second Hand",
+      "price": 2222,
+      "comment": "gtttttt",
+      "date": "2022-06-16T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "ssss",
+      "category": "smartphone",
+      "condition": "Brand New",
+      "price": 111111,
+      "description": "dddddddd",
+      "date": "2022-06-02T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "hjgugiu",
+      "category": "tablet",
+      "condition": "Refurbished",
+      "price": 4567,
+      "description": "hgfhjk",
+      "date": "2022-06-30T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "aaaa",
+      "category": "tablet",
+      "condition": "Second Hand",
+      "price": 1111111,
+      "description": ",,,mmmmmmm",
+      "date": "2022-06-30T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
